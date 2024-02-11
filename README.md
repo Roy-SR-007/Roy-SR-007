@@ -10,6 +10,6 @@ My research interest primarily lies in the broad avenue of Computational Statist
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Look up **The Baby Skorohod Theorem**.
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 ![Homepage Github Gif](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Roy-SR-007&theme=dark)](https://git.io/streak-stats)
