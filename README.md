@@ -11,4 +11,4 @@ My research interest primarily lies in the broad avenue of Computational Statist
 - ⚡ Fun fact: Look up **The Baby Skorohod Theorem**.
 
 <img align="left" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
-<img align="right" alt="Coding" width="200" src="https://github-readme-streak-stats.herokuapp.com?user=Roy-SR-007&theme=dark">
+<img align="right" alt="Coding" width="300" src="https://github-readme-streak-stats.herokuapp.com?user=Roy-SR-007&theme=dark">
