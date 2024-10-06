@@ -4,9 +4,9 @@ I am a doctoral (Ph.D.) candidate at the [Department of Statistics, Texas A&M Un
 
 My research interest primarily lies in the broad avenue of Computational Statistics, which at present includes Bayesian Computation in the field of Machine Learning with applications extending out to the realm of Artificial Intelligence (Bayesian architecture in Neural Networks, Large Language Models, and much more). Along with this, my interests also encircles the usage of Bayesian paradigm in multidisciplinary problems. Application of Statistics in Combinatorial and Design Theory, Quantum Cryptography, Industry and Social Sciences, are also a part of my research involvements.
 
-- 🔭 I’m currently working on Bayesian Algorithms and related Computations in the realm of AI/ML.
+- 🔭 I’m currently working on Bayesian Machine Learning Algorithms and related Computations for Posterior Approximations.
 - 💬 Ask me about Stat, Math, Programming, Life Advise (Maybe not), Aggghhh! Just Kidding, Feel free to ask anything!
-- 📫 How to reach me: https://sites.google.com/tamu.edu/sroy, or you can shoot me an email @ [sroy_123@tamu.edu](mailto:sroy_123@tamu.edu).
+- 📫 How to reach me: https://people.tamu.edu/~sroy_123, or you can shoot me an email @ [sroy_123@tamu.edu](mailto:sroy_123@tamu.edu).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Look up **The Baby Skorohod Theorem**.
 
