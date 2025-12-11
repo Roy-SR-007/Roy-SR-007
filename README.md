@@ -71,7 +71,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<! -- ## 📊 GitHub Stats
 
 <p align="center">
   <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=Roy-SR-007&theme=dark&date_format=M%20j%2C%20Y" alt="🔥 GitHub Streak Stats" />-->
@@ -80,4 +80,4 @@
   <!--<img src="https://activity-graph.herokuapp.com/graph?username=Roy-SR-007&theme=dark&area=true" alt="📅 Contribution Graph" />-->
 </p>
 
----
+--- -->
