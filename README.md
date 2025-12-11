@@ -81,13 +81,3 @@
 <!--</p>-->
 
 <!-- --- -->
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Roy-SR-007&show_icons=true&theme=dark&count_private=true" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Roy-SR-007&layout=compact&theme=dark" />
-</p>
-
----
