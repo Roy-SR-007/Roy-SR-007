@@ -73,11 +73,11 @@
 
 <! -- ## 📊 GitHub Stats -->
 
-<p align="center">
+<!--<p align="center">-->
   <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=Roy-SR-007&theme=dark&date_format=M%20j%2C%20Y" alt="🔥 GitHub Streak Stats" />-->
-  <img src="https://github-readme-stats.vercel.app/api?username=Roy-SR-007&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="📈 GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roy-SR-007&layout=compact&theme=dark" alt="🔤 Top Languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Roy-SR-007&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="📈 GitHub Stats" /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roy-SR-007&layout=compact&theme=dark" alt="🔤 Top Languages" /> -->
   <!--<img src="https://activity-graph.herokuapp.com/graph?username=Roy-SR-007&theme=dark&area=true" alt="📅 Contribution Graph" />-->
-</p>
+<!--</p>-->
 
 <!-- --- -->
